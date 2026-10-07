@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+__pycache__/
+*.pyc
+
+# Python envs
+.venv/
+venv/
+
+# Models (large binaries, fetch separately)
+*.gguf
+*.bin
+*.onnx
+*.onnx.json
+models/
+voices/
+
+# Runtime data
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.wav
+*.mp3
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
