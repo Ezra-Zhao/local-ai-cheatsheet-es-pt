@@ -11,6 +11,9 @@
 
 # 🇪🇸 ESPAÑOL
 
+
+Apoyo y más: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — plantillas y cuadernos que uso](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 1 · Inferencia LLM local — modelos corriendo en tu máquina
 
 | Herramienta | Para qué sirve (1 frase) | Instalar / arrancar | Ejemplo mínimo |
