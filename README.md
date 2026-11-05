@@ -137,3 +137,5 @@ Hardware rule of thumb: an 8B quantized LLM needs ~8 GB RAM/VRAM; Whisper base r
 ## Licencia / Licença / License
 
 MIT — ver / veja / see [LICENSE](LICENSE). © 2026 Guangyi Zhao (Ezra-Zhao).
+
+每日更新见 Telegram 频道《代码与诗篇》：https://t.me/EzraZhao777 （Daily updates: Telegram channel Code & Psalms)
